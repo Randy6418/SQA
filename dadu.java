@@ -2,7 +2,7 @@ import java.util.Random;
 import java.awt.Color;
 
 public class Dadu {
-public static final int DEFAULT_SISI = 6;
+public static final int DEFAULT_SISI = 7;
 
 private static Random randGenerator = new Random();
 
